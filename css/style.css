@@ -476,6 +476,14 @@ a:focus {
   margin: 30px auto;
 }
 
+.info_social2 {
+  display: flex;
+  justify-content: space-between;
+  width: 150px;
+  margin: 30px auto;
+}
+
+
 /* end info section */
 
 
