@@ -797,11 +797,11 @@ hr {
   position: absolute;
 }
 
-img{
+.img-blog{
   width: 460px;
   }
 
-.h1{
+.h1-blog{
   margin: auto;
   text-align: left;
   margin-top: 240px;
@@ -810,7 +810,7 @@ img{
   font-family: 'Merriweather', serif;
   font-size: 24px;
 }
-p{
+.p-blog{
  text-align: justify; 
  padding-left: 30px;
  padding-right: 30px;
