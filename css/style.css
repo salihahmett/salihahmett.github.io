@@ -419,8 +419,8 @@ a:focus {
 .info_section2 {
   padding-top: 100px;
   padding-bottom: 1px;
-  color: #180303;
-  background-color: #d2dce4;
+  color: #000000;
+  background-color: #fff;
 }
 .info_logo h2 {
   color: #fddd33;
