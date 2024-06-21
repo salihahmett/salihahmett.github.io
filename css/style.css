@@ -762,3 +762,55 @@ hr {
     width: 99%;
   }
 }
+
+.blog{
+  width: var(--width);
+  background: #fff;
+  padding: 20px;
+}
+
+.blog img{
+  width: 100%;
+}
+
+.blog body {
+  background: var(--bg);
+  display: grid;
+  place-items: center;
+}
+
+.blog h1, h2, h3, h4, h5, h6{
+  color: var(--title);
+  text-transform: capitalize;
+  font-family: var(--title-font);
+}
+
+.blog section,
+aside,
+article,
+div,
+img{
+  box-sizing: border-box;
+}
+
+.blog h3{
+  font-size: calc(var(--width)/10);
+}
+
+.blog p{
+  font-family: var(--text-font);
+  color: var(--para-text);
+  font-size: calc(var(--width)/20);
+}
+
+.blog h1{
+  color: #fff;
+}
+
+.blog a{
+  text-decoration: none;
+  color: var(--bg);
+  font-family: var(--title-font);
+  font-weight: 700;
+  font-size: calc(var(--width)/23);
+}
